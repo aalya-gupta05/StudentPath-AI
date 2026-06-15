@@ -20,3 +20,6 @@ BTech CSE + BS-MS AI & Cyber Security
 
 ## Live Demo
 [Click here to chat with StudentPath-AI](https://ai.azure.com/nextgen/r/BkclJubLTOK60SD3iADvjQ,rg-aalya_ua2504aih02-9405,,aalya-ua2504aih02-4952-resource,aalya-ua2504aih02-4952/agents/StudentPath-AI/preview?version=3)
+
+## Demo Video Link
+(https://youtu.be/HMlOYbFKGa8?si=TCylqNDsYbvnfUN-)
