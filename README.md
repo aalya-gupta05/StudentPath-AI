@@ -31,7 +31,7 @@ StudentPath-AI is a conversational agent that guides students through:
 
 ## 🚀 Try it Live
 
-👉 [Chat with StudentPath-AI](https://ai.azure.com) *(Live demo link — see below)*
+👉 [Chat with StudentPath-AI](https://ai.azure.com/nextgen/r/BkclJubLTOK60SD3iADvjQ,rg-aalya_ua2504aih02-9405,,aalya-ua2504aih02-4952-resource,aalya-ua2504aih02-4952/agents/StudentPath-AI/preview?version=3) *(Live demo link — see below)*
 
 📹 [Demo Video](https://youtu.be/HMlOYbFKGa8?si=TCylqNDsYbvnfUN-)
 
