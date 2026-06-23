@@ -1,6 +1,6 @@
 # StudentPath-AI 🎓
 
-> Built for the **Microsoft Agents League Hackathon 2026** during Microsoft AI Skill Fest
+> Built for the **Microsoft Agents League Hackathon 2026** during Microsoft AI Skill Fest 2026
 
 An intelligent AI Career Guidance Agent built on **Microsoft Azure AI Foundry** that helps students navigate their career journey — from self-discovery to job readiness.
 
