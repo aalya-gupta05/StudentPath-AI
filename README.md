@@ -39,9 +39,10 @@ StudentPath-AI is a conversational agent that guides students through:
 
 ## 🏅 Recognition
 
-This project was submitted to the **Microsoft Agents League Hackathon 2026**, part of the Microsoft AI Skill Fest. 
+This project was submitted to the **Microsoft Agents League Hackathon 2026**, part of the Microsoft AI Skill Fest.
 
-[![Microsoft AI Skill Fest Badge](https://www.credly.com/badges/fcfc91ad-ff06-4492-84c9-6ad2864dae95/public_url)
+🏆 [View my Microsoft AI Skill Fest Badge on Credly](https://www.credly.com/badges/fcfc91ad-ff06-4492-84c9-6ad2864dae95/public_url)
+
 
 ---
 
